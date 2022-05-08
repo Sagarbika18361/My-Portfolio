@@ -1,0 +1,48 @@
+ <div className="mt-2 ">
+              <div className="project1text d-flex justify-content-center">
+                <div
+                  className=" blueRect d-inline-block me-1  "
+                  style={{ marginTop: "59px" }}
+                ></div>
+                <div className="projinside_1 d-inline-block mb-2 ">
+                  <h1
+                    className="d-inline-block mt-5"
+                    style={{ fontSize: "35px", fontWeight: "900" }}
+                  >
+                    Projects
+                  </h1>
+                </div>
+              </div>
+              <div className="row">
+                <div className="col-12 mt-5">
+                  <p className="text-center">
+                    I'm a paragraph. Click here to add your own text and edit
+                    me. It’s easy. Just click “Edit
+                    <br />
+                    Text” or double click me to add your own content and make
+                    changes to the font. I’m a<br />
+                    great place for you to tell a story and let your users know
+                    a little more about you.
+                  </p>
+                </div>
+              </div>
+              <div className="row d-flex justify-content-center ">
+                <div className="col-12 p-0 proj1 mb-2 mt-5">
+                  <div className=" d-inline-block blueRect float-start"></div>
+                  <h2
+                    className="d-block float-start ms-4 "
+                    style={{
+                      fontSize: "22px",
+                      marginTop: "80px",
+                      color: "#0050ff",
+                      fontWeight: "900",
+                    }}
+                  >
+                    Project name 01
+                  </h2>
+                </div>
+
+                <div className="col-12 proj1 mb-2"></div>
+                <div className="col-12 proj1 mb-2"></div>
+              </div>
+            </div>

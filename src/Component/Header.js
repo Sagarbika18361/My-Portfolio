@@ -90,7 +90,7 @@ const Header = () => {
           </div>
           </div>
         
-            <a className="nav-links d-none d-inline-block insideBars position-absolute  d-inline-block" onClick={modalOpen}  >
+            <a className="nav-links d-none d-inline-block insideBars position-absolute  d-inline-block" href="/" onClick={modalOpen}  >
               <img src={img1} alt="bars... " className="  barss" />
             </a>
           

@@ -52,7 +52,7 @@ const Header = () => {
               <div className="d-inline-block name fw-bolder  pointertoHome">
                 <Link to="/" className="text-decoration-none text-dark">
                   Sagar&nbsp;Bika <span className="text-dark">/</span>
-                  <span className="designation fw-normal "> Web Designer </span>
+                  <span className="designation fw-normal "> Front-End Developer </span>
                 </Link>
               </div>
             </div>

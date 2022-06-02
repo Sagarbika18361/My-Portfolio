@@ -27,7 +27,7 @@ const Footer = () => {
               <p className="fw-bold ps-5 mb-0" style={{ fontSize: "14px" }}>Follow </p>
               <ul class="nav ps-2  "style={{paddingRight:"4rem"}}>
                 <li class="nav-item">
-                  <a class="nav-link ps-1 " href="#">
+                  <a class="nav-link ps-1 " href="/">
                     <img
                       src="https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_19,h_19,al_c,q_85,usm_0.66_1.00_0.01/0fdef751204647a3bbd7eaa2827ed4f9.webp"
                       alt="facebook"
@@ -35,7 +35,7 @@ const Footer = () => {
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link ps-1" href="#">
+                  <a class="nav-link ps-1" href="/">
                     <img
                       src="https://static.wixstatic.com/media/c7d035ba85f6486680c2facedecdcf4d.png/v1/fill/w_19,h_19,al_c,q_85,usm_0.66_1.00_0.01/c7d035ba85f6486680c2facedecdcf4d.webp"
                       alt="twitter"
@@ -43,7 +43,7 @@ const Footer = () => {
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link ps-1" href="#">
+                  <a class="nav-link ps-1" href="/">
                     <img
                       src="https://static.wixstatic.com/media/6ea5b4a88f0b4f91945b40499aa0af00.png/v1/fill/w_19,h_19,al_c,q_85,usm_0.66_1.00_0.01/6ea5b4a88f0b4f91945b40499aa0af00.webp"
                       alt="linkdin"
@@ -51,7 +51,7 @@ const Footer = () => {
                   </a>
                 </li>
                  <li class="nav-item">
-                  <a class="nav-link ps-1" href="#">
+                  <a class="nav-link ps-1" href="/">
                     <img
                       src="https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_19,h_19,al_c,q_85,usm_0.66_1.00_0.01/01c3aff52f2a4dffa526d7a9843d46ea.webp"
                       alt="instagram"
